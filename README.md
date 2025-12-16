@@ -1,11 +1,5 @@
-
-<!--
-**keshavf2007/keshavf2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently lear# 💫 About Me:
+[ReadMe.md](https://github.com/user-attachments/files/24198400/ReadMe.md)
+# 💫 About Me:
 👯 I’m looking to collaborate on startup ideas<br>🤝 I’m looking for help with making community<br>🌱 I’m currently learning Python <br>
 
 
@@ -28,11 +22,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=keshavf2007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
